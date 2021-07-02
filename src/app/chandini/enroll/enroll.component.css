@@ -1,0 +1,53 @@
+.example-container{
+    height: 700px;
+    }
+    .icons{
+        font-size: 20px;
+        list-style-type: none;
+        border-radius: 15%;
+    }
+    .home{
+        background-color: #8E724E;
+    }
+    .stats{
+        background-color: #56CCF2;
+    }
+    .classroom{
+        background-color: #FFCBBE;
+    }
+    .mentor{
+        background-color: #BB6BD9;
+    }
+    .funtime{
+        background-color: #365E7D;
+    }
+    .projects{
+        background-color: #C36849;
+    }
+    .notifications{
+        background-color: #728BCB;
+    }
+    .box{
+        margin-top: 50px;
+       
+    }
+    ::ng-deep.mat-tab-label{
+        min-width:0px!important;
+    }
+    ::ng-deep.mat-tab-label-content{
+        color: white
+    }
+    .k{
+        font-family: Quicksand;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 30px;
+
+    }
+
+
+    
+
+
+     
